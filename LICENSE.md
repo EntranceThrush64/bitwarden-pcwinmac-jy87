@@ -1,4 +1,4 @@
-# 
+# 终极 Bitwarden 附加组件 Mac OS版 | 独家 Bitwarden 附加组件 PC Windows版。集成 密码继承 和 定时扫描，跨平台性能最大化。
 
 
 
